@@ -1,1 +1,22 @@
-{}
+{
+  "user": {
+    "d4906a3c-cd8a-465d-8ef6-f8abae86afd7": {
+      "id": "d4906a3c-cd8a-465d-8ef6-f8abae86afd7",
+      "temp_secret": {
+        "ascii": "h/&EXQh9Paz#0Hc8g.sMrpcOr?9*N5]@",
+        "hex": "682f26455851683950617a2330486338672e734d7270634f723f392a4e355d40",
+        "base32": "NAXSMRKYKFUDSUDBPIRTASDDHBTS442NOJYGGT3SH44SUTRVLVAA",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=NAXSMRKYKFUDSUDBPIRTASDDHBTS442NOJYGGT3SH44SUTRVLVAA"
+      }
+    },
+    "8e793116-24cf-43b0-a999-6dc59b1abe56": {
+      "id": "8e793116-24cf-43b0-a999-6dc59b1abe56",
+      "temp_secret": {
+        "ascii": "WkcLRbTTHRIg?!)cb{ns?axpy.?%!CXD",
+        "hex": "576b634c52625454485249673f212963627b6e733f617870792e3f2521435844",
+        "base32": "K5VWGTCSMJKFISCSJFTT6IJJMNRHW3TTH5QXQ4DZFY7SKIKDLBCA",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=K5VWGTCSMJKFISCSJFTT6IJJMNRHW3TTH5QXQ4DZFY7SKIKDLBCA"
+      }
+    }
+  }
+}
